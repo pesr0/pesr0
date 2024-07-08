@@ -1,8 +1,8 @@
-<p align="left">Hi Visitor! <br>Welcome to my profile, in my portfolio you will find more descriptions about my main project (which cannot be shared in public repoitories).<br>Appreciate your visit!</p>
+<p align="left">Hi Visitor! <br>Welcome to my profile, in my portfolio you will find more descriptions about my main project (which cannot be shared in public repositories).<br>Appreciate your visit!</p>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=pesr0.pesr0&left_color=purple&right_color=rebeccapurple"  />
 </div>
 
