@@ -1,7 +1,10 @@
 # 💫 About Me:
 Graduated engineer, with strong experience in data manipulation and analysis from materials testing. Proficient in python and SQL and familiar with other languages such as C, C# and Java. Experienced in data analysis and data visualization, machine learning, RPA and solutions development. I am very curious, creative and always searching for something new to learn.
+
 Feel free to connect or email me!
+
 I also appreciate suggestions (on my profile and projects)!
+
 Welcome to my Profile!
 
 
