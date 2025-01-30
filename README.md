@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently looking studying and looking for a position as data scientist. I'm a very curious person, always learning something new. Welcome to my profile!
+Graduated engineer, with strong experience in data manipulation and analysis from materials testing. Proficient in python and SQL and familiar with other languages such as C, C# and Java. Experienced in data analysis and data visualization, machine learning, RPA and solutions development. I am very curious, creative and always searching for something new to learn. Welcome to my profile!
 
 
 ## 🌐 Socials:
